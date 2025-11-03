@@ -27,5 +27,5 @@
 - Endpoint for reverse geocoding: /reverse
 - Authentication method: API key appid
 - Required query parameters: lat, lon,limit, appid
-- Sample request with latitude/longitude: http://api.openweathermap.org/geo/1.0/reverse?lat={lat}&lon={lon}&limit={limit}&appid={d5955724d09243872fc64278f2d49abb}
+- Sample request with latitude/longitude: https://api.openweathermap.org/geo/1.0/reverse?lat=-37.4654&lon=-45.4561&limit=1&appid=d5955724d09243872fc64278f2d49abb
 - Sample JSON response (formatted example) 
